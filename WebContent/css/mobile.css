@@ -1,0 +1,10 @@
+div.left, div.right-top, div.right-bottom {
+	width: 100%;
+	box-sizing: border-box;
+	background:;
+	border: 1px solid black;
+}
+
+nav {
+	width: 100%;
+}

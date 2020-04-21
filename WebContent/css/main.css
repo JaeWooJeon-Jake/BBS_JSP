@@ -1,0 +1,41 @@
+
+div.left {
+	width: 50%;
+	height: 80%;
+	float: left;
+	box-sizing: border-box;
+	background: ;
+	border: 1px solid black;
+}
+
+div.right-top {
+	width: 50%;
+	height: 50%;
+	float: right;
+	box-sizing: border-box;
+	background: ;
+	border: 1px solid black;
+}
+
+div.right-bottom {
+	width: 50%;
+	height: 30%;
+	float: right;
+	box-sizing: border-box;
+	background: ;
+	border: 1px solid black;
+}
+
+h1 {
+	text-align: center;
+}
+
+img {
+	position:relative;
+	left:20%;
+	margin: 10px;
+	}
+p {
+	position:relative;
+	left:30px;
+}
